@@ -5,5 +5,6 @@ module.exports = {
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-typography',
+    'gatsby-plugin-styled-components',
   ],
 };
