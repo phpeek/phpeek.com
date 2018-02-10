@@ -6,9 +6,7 @@ import './index.css';
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <div>
       {children()}
-    </div>
   </div>
 )
 
